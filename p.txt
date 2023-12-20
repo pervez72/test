@@ -1,4 +1,10 @@
 pervez
+srdo
 kasnf
 
+<<<<<<< HEAD
 pervez data add+ hasan
+=======
+pervez data add
+new data pervez
+>>>>>>> pervez
